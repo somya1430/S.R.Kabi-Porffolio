@@ -7,7 +7,7 @@ It showcases my projects, technical skills, and professional background as a Com
 
 ## 🌐 Live Website
 
-https://somya1430.github.io/somya-ranjan-portfolio/
+ https://somya1430.github.io/S.R.Kabi-Porffolio/
 
 ---
 
@@ -18,7 +18,6 @@ I am a B.Tech Computer Science student with a strong interest in:
 - Machine Learning
 - Cybersecurity
 - Cloud Computing
-- Data Structures & Algorithms
 - Web Development
 
 This portfolio represents my technical journey and the projects I have worked on.
