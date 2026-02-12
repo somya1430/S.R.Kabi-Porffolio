@@ -1,2 +1,87 @@
-# S.R.Kabi-Porffolio
-A simple portfolio webpage
+# Somya Ranjan Kabi – Portfolio Website
+
+This is my personal portfolio website built using HTML5 and CSS3.  
+It showcases my projects, technical skills, and professional background as a Computer Science student.
+
+---
+
+## 🌐 Live Website
+
+https://yourusername.github.io/somya-ranjan-portfolio/
+
+---
+
+## 👨‍💻 About Me
+
+I am a B.Tech Computer Science student with a strong interest in:
+
+- Machine Learning
+- Cybersecurity
+- Cloud Computing
+- Data Structures & Algorithms
+- Web Development
+
+This portfolio represents my technical journey and the projects I have worked on.
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+
+---
+
+## ✨ Features
+
+- Clean and minimal user interface
+- Responsive design
+- Projects section
+- Skills section
+- About section
+- Contact information
+
+---
+
+## 📂 Project Structure
+
+somya-ranjan-portfolio/
+│
+├── index.html
+├── css/
+│   └── style.css
+├── assets/
+│   ├── images/
+│   └── icons/
+└── README.md
+
+---
+
+## 📸 Preview
+
+(Add a screenshot of your homepage inside assets/images folder)
+
+![Portfolio Screenshot](assets/images/screenshot.png)
+
+---
+
+## 📌 Highlighted Projects
+
+- Face Recognition Attendance System
+- Crash Detection System using Machine Learning
+- DDoS Anomaly Detection Model
+- Live Surveillance System (Python + Django)
+
+---
+
+## 📬 Contact
+
+Email: your-email@example.com  
+LinkedIn: https://linkedin.com/in/yourprofile  
+GitHub: https://github.com/yourusername  
+
+---
+
+## 📄 License
+
+This project is open-source and available under the MIT License.
