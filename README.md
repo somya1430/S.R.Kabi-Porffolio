@@ -7,7 +7,7 @@ It showcases my projects, technical skills, and professional background as a Com
 
 ## 🌐 Live Website
 
-https://yourusername.github.io/somya-ranjan-portfolio/
+https://somya1430.github.io/somya-ranjan-portfolio/
 
 ---
 
@@ -57,20 +57,11 @@ somya-ranjan-portfolio/
 
 ---
 
-## 📸 Preview
-
-(Add a screenshot of your homepage inside assets/images folder)
-
-![Portfolio Screenshot](assets/images/screenshot.png)
-
----
-
 ## 📌 Highlighted Projects
 
 - Face Recognition Attendance System
 - Crash Detection System using Machine Learning
 - DDoS Anomaly Detection Model
-- Live Surveillance System (Python + Django)
 
 ---
 
