@@ -1,0 +1,104 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #eef3f7;
+    color: #333;
+}
+#main{
+    z-index: 2;
+    background-image: url('../assets/photos/background .jpg');
+    background-size: cover;
+}
+
+header {
+    position: sticky;
+    top:7px;
+    width: 95vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:30px 70px 20px 20px ;
+    background-color: #333;
+    color: #ffffff;
+    z-index: 2;
+}
+.skills{
+    align-self: last baseline;
+    height: 45px;
+    background-color: #33333373;
+    display: flex;
+    justify-content: space-between ;
+    align-items: last baseline;
+    padding-bottom: 15px;
+}
+.lang, .tech{
+    margin: 0px 20px 0px 20px;
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+}
+.skills a{
+    text-decoration: none;
+    color: white;
+}
+nav a {
+    margin-right: 30px;
+    text-decoration: none;
+    color: white;
+}
+#about{
+    /* background-color: #ffffff; */
+    /* border-radius: 15%; */
+    width: 450px;
+    text-align: justify;
+    margin: 25px;
+    padding: 25px;
+}
+/* #about:hover{
+    box-shadow: 1.5px 1.5px 11px black;
+    transform: scale(1.1);
+} */
+#projects{
+    padding: 60px;
+    text-align: center;
+}
+
+.project-card {
+    display: inline-block;
+    margin: 20px;
+    padding: 40px;
+    background-color: #ebeff0;
+    border-top: 2px #333 solid;
+    border-bottom: 2px #333 solid;
+    border-radius: 12%;
+    width: 200px;
+}
+.project-card:hover{
+    box-shadow: 2px 2px 12px #333;
+    transform: scale(1.05);
+}
+#projects a{
+    text-decoration: none;
+    font-size: 2rem;
+    color: #333;
+}
+#projects h2{
+    background-color:#f2f5fa ;
+    color: #333;
+    display: inline;
+    padding: 12px;
+    border-bottom: 2px solid black;
+    border-bottom-right-radius: 12%;
+    border-bottom-left-radius: 12%;
+}
+footer
+{
+    display: flex;
+    flex-direction: column-reverse;
+    height: fit-content;
+    text-align: center;
+    background-color: #333;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    color: #fff;
+}
