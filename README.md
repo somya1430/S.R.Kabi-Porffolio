@@ -67,8 +67,8 @@ somya-ranjan-portfolio/
 ## 📬 Contact
 
 Email: your-email@example.com  
-LinkedIn: https://linkedin.com/in/yourprofile  
-GitHub: https://github.com/yourusername  
+LinkedIn: https://www.linkedin.com/in/srkabi/
+GitHub: https://github.com/somya1430 
 
 ---
 
